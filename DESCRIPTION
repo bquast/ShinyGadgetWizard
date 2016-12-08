@@ -1,0 +1,8 @@
+Package: ShinyGadgetWizard
+Title: example of an RStudio Addins Wizard using Shiny Gadget
+Version: 0.0.0.9000
+Authors@R: person("Bastiaan", "Quast", email = "bquast@gmail.com", role = c("aut", "cre"))
+Description: An example of an RStudio plugin that has a Wizard interface, built using Shiny Gadget.
+Depends: R (>= 3.3.2)
+License: GPL-3
+Encoding: UTF-8
